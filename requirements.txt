@@ -1,0 +1,16 @@
+# Runtime
+pygame>=2.5.0
+numpy>=1.24
+pyyaml>=6.0.1
+loguru>=0.7.2
+
+# Optional (uncomment if you use them)
+# pillow>=10.0
+# pysdl2>=0.9.16
+# screeninfo>=0.8.1
+
+# Dev tools (optional)
+# black>=24.0
+# isort>=5.13
+# mypy>=1.10
+# pytest>=8.0
